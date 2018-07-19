@@ -147,7 +147,7 @@ $item->ItemSpecifics->NameValueList[] = $specific;
 
 $specific = new Types\NameValueListType();
 $specific->Name = 'Length';
-$specific->Value[] = 'Unabrided';
+$specific->Value[] = 'Unabridged';
 $item->ItemSpecifics->NameValueList[] = $specific;
 
 $specific = new Types\NameValueListType();
